@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Buidit SOLR Startup</key>
+    <string>io.buildit.solr</string>
+    <key>ProgramArguments</key>
+    <array>
+        <string>/Users/jihaia/3P/solr-4.4.0/buildit/start.sh</string>
+    </array>
+    <key>RunAtLoad</key>
+    <true/>
+</dict>
+</plist>

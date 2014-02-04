@@ -30,7 +30,6 @@
   -->
   <cores adminPath="/admin/cores" host="${host:}" hostPort="${jetty.port:8983}" hostContext="${hostContext:solr}">
     <core name="desk" instanceDir="desk" />
-    <core name="omni" instanceDir="omni" />
 <!--    <core name="omni" instanceDir="omni" /> Uncomment and reference each new instance -->
   </cores>
 </solr>
